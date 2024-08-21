@@ -17,13 +17,14 @@ In our Project, we have worked on four Paradigms. These paradigms serve as the b
 3. Tool for Coding: Visual Studio Code
 
 **INTERFACES:**
-![image](https://github.com/SarahQasim29/DSAAlgoVisualizer_Web/assets/170097314/06a3af2e-ce92-481b-b739-13d80b44b889)
-![image](https://github.com/SarahQasim29/DSAAlgoVisualizer_Web/assets/170097314/5b6e1ec1-c296-4aee-baa1-1182fac429d7)
-![image](https://github.com/SarahQasim29/DSAAlgoVisualizer_Web/assets/170097314/866b59ff-6310-4624-87a6-6bfd6fc4dc56)
-![image](https://github.com/SarahQasim29/DSAAlgoVisualizer_Web/assets/170097314/28a39425-edbd-4934-9fef-ed66f2491182)
-![image](https://github.com/SarahQasim29/DSAAlgoVisualizer_Web/assets/170097314/755f7d49-931e-41ea-a79c-c05d552a9168)
-![image](https://github.com/SarahQasim29/DSAAlgoVisualizer_Web/assets/170097314/14cd9a23-2b7c-4f66-8573-ec50ea117a76)
-![image](https://github.com/SarahQasim29/DSAAlgoVisualizer_Web/assets/170097314/73c95566-dbf0-48e8-b728-165f79474ea9)
+![image](https://github.com/user-attachments/assets/f4e595e9-4330-45df-8db4-e5abccc8eb7c)
+![image](https://github.com/user-attachments/assets/1af3105c-cf5f-4d1a-bd80-9b0499f94aa9)
+![image](https://github.com/user-attachments/assets/86b8fc1a-7c63-4af9-a7d2-97a164071287)
+![image](https://github.com/user-attachments/assets/bb310525-b693-43cb-8230-5a31b3bec0a5)
+![image](https://github.com/user-attachments/assets/a1b4e407-59d9-49b5-a539-251677e317a2)
+![image](https://github.com/user-attachments/assets/160cc04a-1a4a-4550-b83a-8634dd3afb68)
+![image](https://github.com/user-attachments/assets/d56027e2-5ae8-4076-9151-45387d8b3736)
+![image](https://github.com/user-attachments/assets/af06631d-b46f-477d-b024-83fd161d2094)
 
 **CONCLUSION:**
 In Conclusion, this project serves as a valuable educational tool, catering to both beginners and experienced individuals, offering accessible insights into the intricacies of fundamental algorithms.
