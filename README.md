@@ -21,7 +21,6 @@ In our Project, we have worked on four Paradigms. These paradigms serve as the b
 ![image](https://github.com/user-attachments/assets/1af3105c-cf5f-4d1a-bd80-9b0499f94aa9)
 ![image](https://github.com/user-attachments/assets/86b8fc1a-7c63-4af9-a7d2-97a164071287)
 ![image](https://github.com/user-attachments/assets/bb310525-b693-43cb-8230-5a31b3bec0a5)
-![image](https://github.com/user-attachments/assets/a1b4e407-59d9-49b5-a539-251677e317a2)
 ![image](https://github.com/user-attachments/assets/160cc04a-1a4a-4550-b83a-8634dd3afb68)
 ![image](https://github.com/user-attachments/assets/d56027e2-5ae8-4076-9151-45387d8b3736)
 ![image](https://github.com/user-attachments/assets/af06631d-b46f-477d-b024-83fd161d2094)
